@@ -13,6 +13,6 @@
 - 빌드도구 : maven
 - 디자인도구 : PhotoShop
 ## 대표 이미지
-![image01]()
+![image](https://user-images.githubusercontent.com/15371940/153333491-793f0e31-c1b7-47d2-b3e1-db86ec615f3c.png)
 ## 서비스 URL
 www.naver.com
